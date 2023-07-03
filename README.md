@@ -1,5 +1,5 @@
 ### Hi Developers 👋
-<a href="https://manoharmeena123.github.io/" target="text-decoration:none"><img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
+<a href="https://tinu1097.github.io/" target="text-decoration:none"><img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-ItsManoharMeena-red)](https://www.youtube.com/@manoharmeena3346/videos)
 [![Linkedin Badge](https://img.shields.io/badge/-Manohar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manohar-meena-1a132221b)](https://www.linkedin.com/in/manohar-meena-1a132221b/)
@@ -33,9 +33,9 @@ Languages and Tools:
  -->
 <table>
   <tr>
-    <td valign="top"><img align="center" src="https://github-readme-stats-oup691hc2-alexfp05405.vercel.app/api?username=manoharmeena123&show_icons=true&locale=en&theme=vue&count_private=true&hide_border=true" /></td>
-     <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoharmeena123&lans-count=4" alt="manoharmeena123" /></td>
-    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manoharmeena123&show_icons=true&locale=en&theme=vue&count_private=true&hide_border=true" alt="tinu1097" /></td>
+    <td valign="top"><img align="center" src="https://github-readme-stats-oup691hc2-alexfp05405.vercel.app/api?username=tinu1097&show_icons=true&locale=en&theme=vue&count_private=true&hide_border=true" /></td>
+     <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinu1097&lans-count=4" alt="tinu1097" /></td>
+    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinu1097&show_icons=true&locale=en&theme=vue&count_private=true&hide_border=true" alt="tinu1097" /></td>
     
   </tr>
 </table>
