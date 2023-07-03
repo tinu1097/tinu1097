@@ -3,7 +3,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Teena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teena-agrawal-259435190)](https://www.linkedin.com/in/teena-agrawal-259435190)
 [![Medium Badge](https://img.shields.io/badge/-Teena-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@tinuagrawal1097)](https://medium.com/@tinuagrawal1097)
-
+[![Hackerrank Badge](https://img.shields.io/badge/-Teena-green?style=flat-square&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/tinuagrawal1097?hr_r=1
+)](https://www.hackerrank.com/tinuagrawal1097?hr_r=1
+)
 
 I'm
 Data Scientist with a strong background in data analysis, machine learning, and statistical modeling. Accomplished in designing and implementing data-driven solutions to solve complex business problems and drive actionable insights. Expert in delivering End to end model building, exporting and integrating in production environments. Excellent skills in feature engineering and performing EDAs to input meaningful data points to models. 
