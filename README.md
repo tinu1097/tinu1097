@@ -1,14 +1,19 @@
 ### Hi Developers 👋
 <a href="https://tinu1097.github.io/" target="text-decoration:none"><img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Manohar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teena-agrawal-259435190)](https://www.linkedin.com/in/teena-agrawal-259435190)
+[![Linkedin Badge](https://img.shields.io/badge/-Teena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teena-agrawal-259435190)](https://www.linkedin.com/in/teena-agrawal-259435190)
 
 
 
 
 I'm
-Full Stack Solution Architect.
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), back-end development ( HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,Mysql).
+Data Scientist with a strong background in data analysis, machine learning, and statistical modeling. Accomplished in designing and implementing data-driven solutions to solve complex business problems and drive actionable insights. Expert in delivering End to end model building, exporting and integrating in production environments. Excellent skills in feature engineering and performing EDAs to input meaningful data points to models.Technologies i used programming 
+Technical Skills
+●EDA			   ●Statistics
+●Python	     ●Deep Learning
+●NLP         ●Database(MongoDB,Mysql)
+●Tensorflow  ●Recommendation Engines
+●Machine Learning ●Computer Vision
 
 
 ![Visitor Count](https://profile-counter.glitch.me/tinu1097/count.svg)
