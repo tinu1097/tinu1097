@@ -2,7 +2,6 @@
 <a href="https://tinu1097.github.io/" target="text-decoration:none"><img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Teena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teena-agrawal-259435190)](https://www.linkedin.com/in/teena-agrawal-259435190)
-[!Medium Badge](https://img.shields.io/badge/-Teena-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@tinuagrawal1097)]
 
 I'm
 Data Scientist with a strong background in data analysis, machine learning, and statistical modeling. Accomplished in designing and implementing data-driven solutions to solve complex business problems and drive actionable insights. Expert in delivering End to end model building, exporting and integrating in production environments. Excellent skills in feature engineering and performing EDAs to input meaningful data points to models. 
