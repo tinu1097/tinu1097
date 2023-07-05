@@ -11,7 +11,9 @@
 )](https://www.hackerrank.com/tinuagrawal1097?hr_r=1
 )
 
-<div>I'm
+<div display="flex">
+<div>
+I'm
 Data Scientist with a strong background in data analysis, machine learning, and statistical modeling. Accomplished in designing and implementing data-driven solutions to solve complex business problems and drive actionable insights. Expert in delivering End to end model building, exporting and integrating in production environments. Excellent skills in feature engineering and performing EDAs to input meaningful data points to models. 
 Technical Skills
 ●EDA			   ●Statistics
@@ -19,7 +21,10 @@ Technical Skills
 ●NLP         ●Database(MongoDB,Mysql)
 ●Tensorflow  ●Recommendation Engines
 ●Machine Learning ●Computer Vision
+</div>
+  <div>
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
+  </div>
 </div>
 
 ![Visitor Count](https://profile-counter.glitch.me/tinu1097/count.svg)
