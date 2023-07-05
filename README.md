@@ -18,8 +18,9 @@ Technical Skills
 ●Tensorflow  ●Recommendation Engines
 ●Machine Learning ●Computer Vision
 
+<h1 align="center">Hi There👋, I'm Harsh Gharat</h1>
+<h3 align="center">I'm a Data Scientist | Machine Learning Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
-
 
 ![Visitor Count](https://profile-counter.glitch.me/tinu1097/count.svg)
 
