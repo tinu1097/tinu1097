@@ -1,7 +1,7 @@
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)
 <h1 align="center">Hi There👋, I'm Teena Agrawal </h1>
-<h3 align="center">I'm a Data Scientist | Machine Learning Developer from India</h3>
+<h3 align="center">I'm a Data Scientist | Machine Learning Developer </h3>
 
 <a href="https://tinu1097.github.io/" target="text-decoration:none"><img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
 
