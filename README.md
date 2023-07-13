@@ -11,7 +11,7 @@
 )](https://www.hackerrank.com/tinuagrawal1097?hr_r=1
 )
 <div>
-<img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
+<img align="right" alt="Coding" width="400" height="200" src="https://indoanalytica.com/static/images/data-science-2.gif">
  <div style="display: flex;" >
 <p>
 I'm
