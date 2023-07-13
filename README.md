@@ -1,4 +1,3 @@
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)
 <h1 align="center">Hi There👋, I'm Teena Agrawal </h1>
 <h3 align="center">I'm a Data Scientist | Machine Learning Developer </h3>
